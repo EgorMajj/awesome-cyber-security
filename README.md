@@ -168,6 +168,7 @@ List links and description
 | [PunkSPIDER](https://www.punkspider.org)              | Web application vulnerability search engine.                           |
 | [Vulert](https://www.vulert.com)                      | Vulert secures software by detecting vulnerabilities in open-source dependencies—without accessing your code. It supports Js, PHP, Java, Python, and more.|
 | [rengine](https://github.com/yogeshojha/rengine)      | reNgine is an automated reconnaissance framework for web applications with a focus on highly configurable streamlined recon process |
+| [ShieldLabs Anonymity Checker](https://demo.shieldlabs.ai/anonymity-checker) | Free diagnostic for the current browser visit showing device identifiers, a risk score, and VPN, proxy, Tor and bot signals. |
 | [Sonarqube](https://www.sonarqube.org/)               | Static code reviewer.                                                  |
 | [Stellastra](https://stellastra.com/email-deliverability-check) | Email authentication and security issues scanner.                      |
 | [TCPDump](https://www.tcpdump.org/tcpdump_man.html)   | Network packet analysis tool.                                          |
